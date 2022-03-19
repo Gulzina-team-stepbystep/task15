@@ -1,0 +1,12 @@
+body {
+    background: rgb(72, 114, 165);
+}
+.inner {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}

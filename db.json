@@ -1,0 +1,25 @@
+[
+    {
+      "id": 1,
+      "title": "Ноутбук Sony Vaio VPC-YB2L1R AMD Fusion E-350",
+      "category": "ноутбуки",
+      "price": "19950сом",
+      "img": "https://www.hihonor.com/content/dam/honor/ru/product-list/laptop/honor-magicbook-x14/magicbook-x14-listimage-pc-silver.png",
+      "desc": "Процессор: E-350 Частота процессора: 1600 МГц Объем жесткого диска: 320 ГБ Диагональ экрана: 11.6, Видеокарта: ATI Radeon HD 6310M Вес: 1.46 кг Оптический привод: DVD нет Bluetooth: есть Wi-Fi: есть"
+    },
+    {
+      "id": 2,
+      "title": "Xiaomi Mi 11 Lite",
+      "category": "смартфоны",
+      "price": "28700сом",
+      "img": "https://static.nv.ua/shared/system/MediaPhoto/images/000/042/210/original/594d166d27fcdab85ea7eaa1a857f9d5.png",
+      "desc": "экран: 6.55 (2400x1080) 90 Гц, оперативная память: 8 ГБ, память: 128 ГБ, слот для карты памяти, 3 камеры: 64 МП, 8 МП, 5 МП, аккумулятор: 4250 мА·ч, процессор: Qualcomm Snapdragon 780G, SIM-карты: 2 (nano SIM), операционная система: Android 11, беспроводные интерфейсы: NFC, Wi-Fi, Bluetooth 5.1, интернет: 5G, 4G LTE, вес: 159 г"
+    },{
+      "id": 3,
+      "title": "Телевизор Hyundai H-LED24FT2001",
+      "category": "телевизор",
+      "price": "21990сом",
+      "img": "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hdd/h95/16161382006814/xiaomi-4s-global-l50m5-5a-127-sm-cernyj-100716331-1.jpg",
+      "desc": "Тип: LEDтелевизор,  Год выпуска: 2021, Smart TV: да, Операционная система: Android, Оперативная память: 0.5 Гб, Покрытие дисплея: глянцевое, Изогнутый экран: нет, Разрешение: 1920x1080, Формат экрана: 16:9"
+    }
+  ]
